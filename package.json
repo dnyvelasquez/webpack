@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development",
-    "deploy": "gh-page -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
